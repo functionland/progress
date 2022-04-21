@@ -14,7 +14,7 @@ The deliverables are a working and usable Fotos app, a Web3 platform for DApp de
 
   * read our latest whitepaper
 
-  * and look at our latest designs for future work in the request for comments section
+  * look at our latest designs for future work in the request for comments section
 
       * this includes RFCs for
 
@@ -38,7 +38,7 @@ After downloading the Fotos app from the app center, users are able to:
 
   * scroll back in time and have photos that they took a long time ago appear immediately
 
-  * and preview a bottom toolbar with sections to show what will come next
+  * preview a bottom toolbar with sections to show what will come next
 
 The FULA platform was designed to power the Fotos app as a Web3 decentralized application using open interoperable specifications that include IPFS and libp2p.
 
@@ -48,10 +48,4 @@ Once the Box app is running, they can navigate to a browser and enter the PeerId
 
 The TODOs application illustrates making CRUD operatios over graphql and the gallery application illustrates how to use the FILE and GRAPH api in conjunction with each other.
 
-To learn how to the get the samples running and how to work with the FULA client libraries, developers can head over to the getting started section on docs.fx.land
-
-The deliverables in this milestone are possible thanks to open source contributions by developers from all around the world including myself gitaaron, farhoud .. 
-
-A special thanks goes to Masih for assisting us all with his expert level technical knowledge and taking the time to help us improve our processes.
-
-We are incredibly passionate about what we are building and look forward to delivering on the next milestone.
+To learn how to the get the samples running and how to work with the FULA client libraries, developers can head over to the getting started section on docs.fx.land.
