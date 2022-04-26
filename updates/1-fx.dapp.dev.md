@@ -1,16 +1,14 @@
-# FX.DApp.Dev Team Update no. 1
+# FX.DApp.Dev Team Update No. 1
 
 Date: Mar. 15, 2022
 
-# Summary
+## Summary
 
-In the past few weeks, the fx.dev team has been working towards supporting the upcoming Kickstarter launch.
+In the past few weeks, the fx.dapp.dev team has been working towards supporting the upcoming Kickstarter launch.
 
 There are two current work areas - Photos and FULA.
 
-# Work Areas
-
-## Photos
+## Fotos
 
 A mobile app BOX customers can use to back up and retrieve their personal photos.
 
@@ -104,7 +102,7 @@ We have also made progress on a few of these key items:
 
 These  will be presented as part of our RFCs at the end of this milestone.
 
-# Visual Updates / Outcomes
+## Visual Updates / Outcomes
 
 The best places to visually see our work will be:
 
@@ -112,11 +110,11 @@ The best places to visually see our work will be:
 
   2.  docs.fx.land
 
-# Current Plans
+## Current Plans
 
 We plan to finish the remaining deliverables for the Kickstarter milestone.
 
-# Non-deliverables
+## Non-deliverables
 
 We have been testing out some new project management tools:
 

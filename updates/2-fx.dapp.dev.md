@@ -1,12 +1,14 @@
-# FX.DApp.Dev Team Update no. 2
+# FX.DApp.Dev Team Update No. 2
 
 Date: Mar. 30, 2022
 
 ## Demo Video
 
+[Functionland Dev Team Update March 2022](https://www.youtube.com/watch?v=Bm5s4OROO4E)
+
 ## Summary
 
-In the past few weeks, the fx.dev team finalized their work for the unbox crowd funding milestone.
+In the past few weeks, the fx.dapp.dev team finalized their work for the unbox crowd funding milestone.
 
 The deliverables are a working and usable Fotos app, a Web3 platform for DApp developers called FULA, and a new consolidated docs.fx.land website where backers can come to :
 
