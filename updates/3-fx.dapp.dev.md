@@ -70,3 +70,11 @@ In the past month, the fx.dapp.dev team has continued work on Docs, Fula, and Fo
         a more stylized / human readable form
 
 ## Fotos
+
+In the latest release of Fotos, users are now able to:
+
+  * batch select and delete photos from their gallery
+
+  * perform thumb scroll to quickly scroll back to a previous moment in time
+
+
