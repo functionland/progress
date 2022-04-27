@@ -36,3 +36,7 @@ In the past month, the fx.dapp.dev team has continued work on Docs, Fula, and Fo
 ## Fotos + Fula Integration
 
     * I click a button and all my fotos get backed up in the background while my phone is plugged in and on wifi
+
+## Fotos
+
+    * iOS support
