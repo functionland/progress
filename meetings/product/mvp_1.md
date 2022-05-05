@@ -1,5 +1,9 @@
 # MVP Use Cases
 
+Attendees: Keyvan, Ehsan, Farhoud, Mehdi, Masih, Aaron
+
+Date: May 5, 2022
+
 # Takeways
   * we need to have primitives for both global + local pools
     * ideally there is as much overlap between the two as possible
