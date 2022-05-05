@@ -1,4 +1,4 @@
-# MVP Use Cases
+# Pool MVP Use Cases
 
 Attendees: Keyvan, Ehsan, Farhoud, Mehdi, Masih, Aaron
 
