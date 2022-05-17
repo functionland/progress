@@ -2,6 +2,10 @@
 
 Date: Apr. 21, 2022
 
+## Video
+
+[Functionland Dev Tam Update April 2022](https://www.youtube.com/watch?v=sAKym-u07e0&t=32s)
+
 ## Summary
 
 In the past month, the fx.dapp.dev team has continued work on Docs, Fula, and Foto.

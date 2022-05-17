@@ -2,7 +2,7 @@
 
 Date: Mar. 30, 2022
 
-## Demo Video
+## Video
 
 [Functionland Dev Team Update March 2022](https://www.youtube.com/watch?v=Bm5s4OROO4E)
 
