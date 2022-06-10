@@ -35,4 +35,8 @@ https://prezi.com/i/view/bK2ZagFv30YRk3VHFYLd
 
     * decide on and utilize  an automated * centralized channel posting (Everyone)
 
+    * other options for docs
+      * gitbook
+      * docusaurus
+
   * figure out logistics / coordination of team mates for content generation
