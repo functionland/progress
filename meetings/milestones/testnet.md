@@ -89,4 +89,19 @@ Date: June 13, 2022
 
   * link to documentation with instructions on how to run through use cases
 
-  * are we running on our own or asking users to BYOD?
+
+  * Box via 'on prem'
+
+    * there is a third solution - we deliver 'on prem' in a pool with Box
+
+    * cons for running Box environment on our own infra
+
+      * puts us on the hook if something goes wrong
+
+      * increases our provisioning workload
+
+    * pros for running Box environment on our own infra
+
+      * enables us to ssh in and view logs / troubleshoot when things go wrong
+
+        * we should have that kind of diagnostics / troubleshooting available for 'on prem'
