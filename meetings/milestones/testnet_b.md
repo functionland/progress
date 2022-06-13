@@ -14,6 +14,10 @@ Date: June 20, 2022
 
   b ) Mehdi
 
+    * preventing collection name collisions
+
+      * multiple users upload photos to a Box and they can only see the list of photos that they uploaded
+
     * documentation on sharing.
 
       * what we have currently working
