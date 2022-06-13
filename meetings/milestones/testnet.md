@@ -1,10 +1,11 @@
 # Testnet delivery
 
-Attendees: 
+Attendees: Jamshid, Farhoud, Mehdi, Mahdi, Masih, Keyvan, Aaron
 
 Date: June 13, 2022
 
-## Purpose of Testnet 
+
+## Purpose of Testnet
 
 1.  Find errors and edge cases (especially long lived) before we launch
 
@@ -16,10 +17,26 @@ Date: June 13, 2022
 
 * we should not implement anything just for testnet
 
-
 ## Agenda
 
 * what is currently working (demos)
+
+  * OrbitDB replication
+
+    * missing - not reliable
+
+  * fula-sec
+
+    * using wallet I generate DID
+
+    * creation of DID with input of mnemonic (on web)
+
+  * Fotos
+
+    * I encrypt my file with DID before uploading it
+
+    * using wallet connect to provide mnemonic
+
 
 * what the UX should be
   * give option for ec2 or pi or just pi?
@@ -27,4 +44,49 @@ Date: June 13, 2022
 
 * what needs to be done for sufficient UX
 
-* premortem
+  * encryption on they fly when streaming file in go mobile
+
+  * replace input of mnemonic with wallet connect
+
+
+## Shoot For
+
+* I provision a Box environment on my own development machine
+
+* I join a pool
+
+* I use Fotos to back up my photos from my device
+
+* I connect with a wallet and only my wallet account is able to access my files
+
+## Next (short term)
+
+* write a doc on sharing a file with someone else
+
+* Jamshid
+
+* Mehdi
+
+  * reliable replication
+
+  * namespaces
+    * apps
+    * users
+    * clients
+
+  * encryption of graphql DB
+    * easiest path forward is to enable querying on client side
+
+  * alternatives to orbit DB
+    * using IPLD + selectors
+    * replication?
+
+## Next (long term)
+
+  * access revoke
+
+## What are we sending?
+
+  * link to documentation with instructions on how to run through use cases
+
+  * are we running on our own or asking users to BYOD?
