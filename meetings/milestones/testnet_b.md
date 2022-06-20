@@ -18,7 +18,7 @@ Date: June 20, 2022
 
       * multiple users upload photos to a Box and they can only see the list of photos that they uploaded
 
-    * documentation on sharing.
+    * documentation on sharing
 
       * what we have currently working
 
@@ -31,7 +31,23 @@ Date: June 20, 2022
 
     * Pin ownership: only I am able to delete my pins from a pool.
 
+  d ) Aaron
 
-2.  What the UX should be?
+    * Testnet setup writeup
 
-3.  What needs to be done
+    * https://github.com/functionland/fula/issues/217
+
+2.  What the UX should be.
+
+3.  What needs to be done.
+
+## Tasks
+
+* support contact / submitting bug reports
+
+* decide on launching community at same time
+
+* instructions for connecting Fotos to Box
+  * output Box multiaddrs so that they can be copy/pasted into Fotos or implement peer routing for Fotos to find Box by it's Peer ID?
+
+* dev intake instructions (email?)
