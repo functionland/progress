@@ -24,7 +24,7 @@ Date: June 20, 2022
   * polish UI (Emad)
 
 * instructions for connecting Fotos to Box (Aaron)
-  * logging Box multiaddrs in Box log and include in instructions (Farhoud)
+  * logging Box multiaddrs in Box log (Farhoud)
 
 * docker-compose for testnet release (Aaron, Farhoud)
   * ipfs / ipfs-cluster change latest to specific release
