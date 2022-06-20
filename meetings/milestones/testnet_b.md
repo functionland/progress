@@ -6,56 +6,67 @@ Date: June 20, 2022
 
 ## Agenda
 
-1.  What is currently working (demos)
+### Demos
 
-  a ) Mahdi
+  * I use a standalone app to encrypt/decrypt files 
 
-    * I connect Fotos to a Box.
+  * initial testnet email writeup
 
-    * I use 'wallet connect' to generate a DID which I use to encrypt a file before uploading it.
+### What needs to be done
 
-  b ) Mehdi
+#### Before wednesday
 
-    * preventing collection name collisions
+* integration of client-side encryption/decryption in Fotos (Mahdi, Farhoud)
 
-      * multiple users upload photos to a Box and they can only see the list of photos that they uploaded
+* web gallery (Mehdi)
+  * latest encrypt/decrypt
+  * wallet connect integration
+  * polish UI (Emad)
 
-    * documentation on sharing
+* instructions for connecting Fotos to Box (Aaron)
+  * logging Box multiaddrs in Box log and include in instructions (Farhoud)
 
-      * what we have currently working
+* docker-compose for testnet release (Aaron, Farhoud)
+  * ipfs / ipfs-cluster change latest to specific release
+  * box use latest image
 
-      * how a developer might extend one of the samples to enable users to share a file with another
+* testnet writeup  (Aaron)
 
-      * if it simplifies things we can just share the private key over instant messenger for now
+  * split up email from docs.fx.land
 
+  * sections in docs.fx.land
+    * What is testnet?
+    * What does it include?
+    * How to get started <- the git clone plus readme
+    * How to report bugs etc.
 
-  c ) Farhoud
+#### After wednesday
 
-    * Pin ownership: only I am able to delete my pins from a pool.
+* how will testnet users load the 'web gallery'?
 
-  d ) Aaron
+  * options are
+    * fix the `npm run build` JS error
 
-    * Testnet setup writeup
+      * try 'npm run build' in fula-sec
 
-    * https://github.com/functionland/fula/issues/217
+    * provide instructions on running locally
 
-2.  What the UX should be.
+* Fotos should post to a 'gallery' collection similar to the gallery web app
 
-3.  What needs to be done.
-
-## Tasks
-
-* client-side encryption/decryption in Fotos
+#### Community
 
 * support contact / submitting bug reports
 
 * decide on launching community at same time
 
-* instructions for connecting Fotos to Box
-  * output Box multiaddrs so that they can be copy/pasted into Fotos or implement peer routing for Fotos to find Box by it's Peer ID?
-
 * dev intake instructions (email?)
 
-* https://github.com/functionland/fula/issues/217
-  * ipfs / ipfs-cluster change latest to specific release
-  * box use latest image
+
+#### Future
+
+  * sharing (Jamshid)
+    * update README on grabbing mnemonic
+    * access revocation refactoring
+    * design doc: mapping of peer id to DID
+
+  * multi-tenancy / name space collisions
