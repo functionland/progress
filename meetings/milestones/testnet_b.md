@@ -1,6 +1,6 @@
 # Testnet Demos
 
-Attendees: Mahdi, Farhoud, Jamshid, Keyvan, Emad, Mehdi, Aaron
+Attendees: Mahdi, Farhoud, Jamshid, Keyvan, Emad, Mehdi, Aaron, Masih
 
 Date: June 20, 2022
 
