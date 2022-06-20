@@ -62,7 +62,7 @@ Date: June 20, 2022
 * dev intake instructions (email?)
 
 
-#### Future
+#### Future (after release)
 
   * sharing (Jamshid)
     * update README on grabbing mnemonic
