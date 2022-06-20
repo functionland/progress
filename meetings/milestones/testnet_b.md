@@ -1,5 +1,7 @@
 # Testnet Demos
 
+Attendees: Mahdi, Farhoud, Jamshid, Keyvan, Emad, Mehdi, Aaron
+
 Date: June 20, 2022
 
 ## Agenda
@@ -43,6 +45,8 @@ Date: June 20, 2022
 
 ## Tasks
 
+* client-side encryption/decryption in Fotos
+
 * support contact / submitting bug reports
 
 * decide on launching community at same time
@@ -51,3 +55,7 @@ Date: June 20, 2022
   * output Box multiaddrs so that they can be copy/pasted into Fotos or implement peer routing for Fotos to find Box by it's Peer ID?
 
 * dev intake instructions (email?)
+
+* https://github.com/functionland/fula/issues/217
+  * ipfs / ipfs-cluster change latest to specific release
+  * box use latest image
