@@ -12,6 +12,6 @@ The purpose of getting this into your hands at such an early stage in the releas
 
 3.  Build community / rapport with you (our most important early adopters).
 
-To this last point, we have also created a new [Discourse community](https://community.fx.land) where we are hoping you can network with us Functionlanders as well as other volunteers in the community who share similar ideals to youself.
+To this last point, we have also created a new [Discourse community](https://community.fx.land) where we are hoping you can network with us Functionlanders as well as other volunteers in the community who share similar ideals to yourself.
 
 Without further adieue, please find instructions on how you can participate in the testnet on our docs portal page [over here](https://docs.fx.land/release/testnet_alpha).
