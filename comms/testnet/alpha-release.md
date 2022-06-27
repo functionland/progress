@@ -4,8 +4,6 @@ Dear `___`,
 
 Thank you for volunteering to help provide us with feedback/testing of the alpha release of the software we have been hard at work with in order to realize the vision as laid out in our whitepaper.
 
-The software we are delivering to you today can give you an idea of how Fotos will backup and store your photos and video to the Box.
-
 The purpose of getting this into your hands at such an early stage in the release lifecycle is we are hoping you will help us with:
 
 1.  Finding errors and edge cases (especially long lived) before we launch.
