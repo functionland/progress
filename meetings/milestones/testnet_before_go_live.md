@@ -2,7 +2,7 @@
 
 Attendees: Mahdi, Aaron
 
-Date: 
+Date: July 9, 2022
 
 ## Agenda
 
