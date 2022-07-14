@@ -6,12 +6,12 @@ Thank you for volunteering to help provide us with feedback/testing of the alpha
 
 The purpose of getting this into your hands at such an early stage in the release lifecycle is we are hoping you will help us with:
 
-1.  Finding errors and edge cases (especially long lived) before we launch.
+1.  To give backers an update on our progress by giving them the ability to test things out for themselves.
 
-2.  Gather feedback so we can ensure we are delivering on what is important when we ship.
+2.  Finding errors and edge cases (especially long lived) before we launch.
 
-3.  Build community / rapport with you (our most important early adopters).
+3.  Gather feedback so we can ensure we are delivering on what is important when we ship.
 
-To this last point, we have also created a new [Discourse community](https://community.fx.land) where we are hoping you can network with us Functionlanders as well as other volunteers in the community who share similar ideals with yourself.
+4.  Build community / rapport with you (our most important early adopters).
 
 Without further adieu, please find instructions on how you can participate in the testnet on our docs portal page [over here](https://docs.fx.land/release/testnet_alpha).
