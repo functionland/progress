@@ -15,3 +15,5 @@ The purpose of getting this into your hands at such an early stage in the releas
 4.  Build community / rapport with you (our most important early adopters).
 
 Without further adieu, please find instructions on how you can participate in the testnet on our docs portal page [over here](https://docs.fx.land/release/testnet_alpha).
+
+@TODO - include link to form + mention of rewards
