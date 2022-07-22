@@ -8,9 +8,9 @@ Date: Apr. 21, 2022
 
 ## Milestones
 
-[Fotos v0.3.0](https://github.com/functionland/fotos/milestone/3)
+[Fotos v0.3.0](https://github.com/functionland/fotos/milestone/3?state=closed)
 
-[Fula v0.6.0](https://github.com/functionland/fula/milestone/1)
+[Fula v0.6.0](https://github.com/functionland/fula/milestone/1?state=closed)
 
 ## Summary
 
