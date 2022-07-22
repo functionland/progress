@@ -4,7 +4,7 @@ Date: Apr. 21, 2022
 
 ## Video
 
-[Functionland Dev Tam Update April 2022](https://www.youtube.com/watch?v=sAKym-u07e0&t=32s)
+[Functionland Dev Team Update April 2022](https://www.youtube.com/watch?v=sAKym-u07e0&t=32s)
 
 ## Milestones
 
