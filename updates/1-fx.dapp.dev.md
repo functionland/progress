@@ -2,6 +2,13 @@
 
 Date: Mar. 15, 2022
 
+## Milestones
+
+[Fotos v0.1.0](https://github.com/functionland/fotos/milestone/1)
+
+[Fula v0.4.0](https://github.com/functionland/fula/milestone/3)
+
+
 ## Summary
 
 In the past few weeks, the fx.dapp.dev team has been working towards supporting the upcoming Kickstarter launch.

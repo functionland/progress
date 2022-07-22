@@ -6,6 +6,13 @@ Date: Mar. 30, 2022
 
 [Functionland Dev Team Update March 2022](https://www.youtube.com/watch?v=Bm5s4OROO4E)
 
+## Milestones
+
+[Fotos v0.2.0](https://github.com/functionland/fotos/milestone/2)
+
+[Fula v0.5.0](https://github.com/functionland/fula/milestone/4)
+
+
 ## Summary
 
 In the past few weeks, the fx.dapp.dev team finalized their work for the unbox crowd funding milestone.

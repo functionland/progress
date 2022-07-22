@@ -6,9 +6,16 @@ Date: Apr. 21, 2022
 
 [Functionland Dev Tam Update April 2022](https://www.youtube.com/watch?v=sAKym-u07e0&t=32s)
 
+## Milestones
+
+[Fotos v0.3.0](https://github.com/functionland/fotos/milestone/3)
+
+[Fula v0.6.0](https://github.com/functionland/fula/milestone/1)
+
 ## Summary
 
 In the past month, the fx.dapp.dev team has continued work on Docs, Fula, and Foto.
+
 
 ## Fula
 

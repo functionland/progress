@@ -6,23 +6,15 @@ Date: TBD
 
 In the past month, the fx.dapp.dev team has continued work on Docs, Fula, and Foto in preparation of testnet launch.
 
-## Docs
+## Milestones
 
-  * info on how developers can invoke the fula client side library in their own DApp
+[Fotos v0.6.0](https://github.com/functionland/fotos/milestone/4)
 
-  * a page describing how BAS works
-
-
-## MVP / Design Docs
-
-  * user stories
-
-    * box administration
-
-    * local pools
+[Fula  v0.7.0](https://github.com/functionland/fula/milestone/2)
 
 
 ## Fula
+
   * backers can now install Box on their own diy setup and testing themselves
 
     * DIY rPi setup guide
