@@ -2,18 +2,22 @@
 
 Dear `___`,
 
-Thank you for volunteering to help provide us with feedback/testing of the alpha release of the software we have been hard at work with in order to realise the vision as laid out in our whitepaper.
+Thanks for your help!
 
-The purpose of getting this into your hands at such an early stage in the release lifecycle is we are hoping you will help us with:
+We're contacting you because you volunteered to help provide feedback/testing of our alpha software release.
 
-1.  To give backers an update on our progress by giving them the ability to test things out for themselves.
+We're putting this software in your hands at this early stage in the release lifecycle in the hope that you can help us:
 
-2.  Finding errors and edge cases (especially long lived) before we launch.
+1.  Find errors and edge cases (especially long-lived edge cases) prior to launch;
 
-3.  Gather feedback so we can ensure we are delivering on what is important when we ship.
+2.  Gather feedback so that we can be sure we're delivering on our promise when we ship;
 
-4.  Build community / rapport with you (our most important early adopters).
+3.  Build community / rapport with you (our **most important early adopters**).
 
-Without further adieu, please find instructions on how you can participate in the testnet on our docs portal page [over here](https://docs.fx.land/release/testnet_alpha).
+We also wanted to give all backers an update on our progress by giving them the ability to test things out for themselves.
 
-@TODO - include link to form + mention of rewards
+That covers it!  Ready to get started?  [Here](https://docs.fx.land/release/testnet_alpha) you'll find instructions for participating in the testnet.
+
+Thanks again for joining us on this journey!
+
+Best, Team Functionland
